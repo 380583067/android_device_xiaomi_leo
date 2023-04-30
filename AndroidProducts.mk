@@ -14,4 +14,4 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/mokee_leo.mk
+    $(LOCAL_DIR)/aosp_leo.mk
